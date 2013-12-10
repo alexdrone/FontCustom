@@ -3,7 +3,7 @@ ios-fontcustom
 
 fontcustom template for iOS 
 
-included example: royalty free icons
+included example: [royalty free icons](output/CustomIconicFont-preview.html).
 ==============
 
 A series of iOS 7 inspired tab bar icons with a mix of default icons and custom ones. Those new icons are here to help you refresh your apps and test the water of the new apple iOS design paradigm.
