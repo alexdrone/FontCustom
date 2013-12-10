@@ -1,0 +1,28 @@
+{
+  "fonts": [
+    "/Users/alexusbergo/Desktop/ios7icons/output/CustomIconicFont_3edbfc141bf030ce04b086ae57c6c114.ttf",
+    "/Users/alexusbergo/Desktop/ios7icons/output/CustomIconicFont_3edbfc141bf030ce04b086ae57c6c114.woff",
+    "/Users/alexusbergo/Desktop/ios7icons/output/CustomIconicFont_3edbfc141bf030ce04b086ae57c6c114.eot",
+    "/Users/alexusbergo/Desktop/ios7icons/output/CustomIconicFont_3edbfc141bf030ce04b086ae57c6c114.svg"
+  ],
+  "templates": [
+    "/Users/alexusbergo/Desktop/ios7icons/output/CustomIconicFont-preview.html",
+    "/Users/alexusbergo/Desktop/ios7icons/output/UIFont+Fontcustom.h"
+  ],
+  "glyphs": [
+    "banner",
+    "bell",
+    "camera",
+    "cup",
+    "diplay",
+    "envelope",
+    "envelopeMail",
+    "home",
+    "map",
+    "pen",
+    "phone",
+    "printer",
+    "repeat",
+    "window"
+  ]
+}
