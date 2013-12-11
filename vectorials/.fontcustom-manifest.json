@@ -1,9 +1,9 @@
 {
   "fonts": [
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont_db867ec6d67f98db7b6e9d6af1d7d6c5.ttf",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont_db867ec6d67f98db7b6e9d6af1d7d6c5.woff",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont_db867ec6d67f98db7b6e9d6af1d7d6c5.eot",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont_db867ec6d67f98db7b6e9d6af1d7d6c5.svg"
+    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.ttf",
+    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.woff",
+    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.eot",
+    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.svg"
   ],
   "templates": [
     "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont-preview.html",
