@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 
 #author:alex.usbergo
 #
@@ -7,6 +7,6 @@
 #brew install fontforge ttfautohint
 #gem install fontcustom
 
-cd vectorials         
-fontcustom compile -t preview ../template/UIFont+Fontcustom.h -o ../output/ -f="CustomIconicFont" -n 
+cd vectorials
+fontcustom compile -t css preview ../template/UIFont+Fontcustom.h ../template/Glyphs.swift -o ../output/ -f="CustomIconicFont" -n 
 cd ..

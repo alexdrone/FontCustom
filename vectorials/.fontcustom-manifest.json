@@ -1,13 +1,15 @@
 {
   "fonts": [
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.ttf",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.woff",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.eot",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont.svg"
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont.ttf",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont.woff",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont.eot",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont.svg"
   ],
   "templates": [
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/CustomIconicFont-preview.html",
-    "/Users/alexusbergo/Desktop/ios-fontcustom/output/UIFont+Fontcustom.h"
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont.css",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/CustomIconicFont-preview.html",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/UIFont+Fontcustom.h",
+    "/Users/alexusbergo/Desktop/dev/ios-fontcustom/output/Glyphs.swift"
   ],
   "glyphs": [
     "airplay",
