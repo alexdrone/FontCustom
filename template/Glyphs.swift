@@ -9,16 +9,7 @@ extension UIFont {
     }
 }
 
-enum IconicFontGlyph {
+enum IconicFontGlyph: String {
 <% @glyphs.each_with_index do |name, index| %>
-  case <%= name.capitalize %><% end %>
-
-  //returns the string associated with the font glyph
-  func encoding() -> String {
-    switch self {
-      <% @glyphs.each_with_index do |name, index| %>
-      case .<%= name.capitalize %>: return "\u<%= (61696+index).to_s(16) %>"<% end %>
-    }
-  }
-
+  case <%= name.capitalize %> = "\u<%= (61696+index).to_s(16) %>"<% end %>
 }
