@@ -5,11 +5,11 @@ import UIKit
 
 extension UIFont {
     func inconicFontOfSize(size: CGFloat) -> UIFont {
-        return UIFont(name: "CustomIconicFont", size: size)
+        return UIFont(name: "IconicFont", size: size)
     }
 }
 
-enum IconicFontGlyph {
+enum IconicFontGlyph: String {
 
   case Airplay = "\uf100"
   case Alarm = "\uf101"

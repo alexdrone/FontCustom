@@ -7,6 +7,4 @@
 #brew install fontforge ttfautohint
 #gem install fontcustom
 
-cd vectorials
-fontcustom compile -t css preview ../template/UIFont+Fontcustom.h ../template/Glyphs.swift -o ../output/ -f="CustomIconicFont" -n 
-cd ..
+fontcustom compile vectorials -t css preview ../template/UIFont+Fontcustom.h ../template/Glyphs.swift -o output --name "IconicFont" -F

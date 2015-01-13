@@ -1,0 +1,430 @@
+{
+  "checksum": {
+    "previous": "67ddadf0593115e9567da1c78ff8c13afa68321a3b37928e8c1ba4874fc53544",
+    "current": "67ddadf0593115e9567da1c78ff8c13afa68321a3b37928e8c1ba4874fc53544"
+  },
+  "fonts": [
+    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.ttf",
+    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.svg",
+    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.woff",
+    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.eot"
+  ],
+  "glyphs": {
+    "airplay": {
+      "codepoint": 61696,
+      "source": "vectorials/airplay.svg"
+    },
+    "alarm": {
+      "codepoint": 61697,
+      "source": "vectorials/alarm.svg"
+    },
+    "attachment": {
+      "codepoint": 61698,
+      "source": "vectorials/attachment.svg"
+    },
+    "balance": {
+      "codepoint": 61699,
+      "source": "vectorials/balance.svg"
+    },
+    "banner": {
+      "codepoint": 61700,
+      "source": "vectorials/banner.svg"
+    },
+    "basketball": {
+      "codepoint": 61701,
+      "source": "vectorials/basketball.svg"
+    },
+    "battery": {
+      "codepoint": 61702,
+      "source": "vectorials/battery.svg"
+    },
+    "bell": {
+      "codepoint": 61703,
+      "source": "vectorials/bell.svg"
+    },
+    "bookmark": {
+      "codepoint": 61704,
+      "source": "vectorials/bookmark.svg"
+    },
+    "box": {
+      "codepoint": 61705,
+      "source": "vectorials/box.svg"
+    },
+    "brightness": {
+      "codepoint": 61706,
+      "source": "vectorials/brightness.svg"
+    },
+    "business": {
+      "codepoint": 61707,
+      "source": "vectorials/business.svg"
+    },
+    "calc": {
+      "codepoint": 61708,
+      "source": "vectorials/calc.svg"
+    },
+    "calendar": {
+      "codepoint": 61709,
+      "source": "vectorials/calendar.svg"
+    },
+    "camera": {
+      "codepoint": 61710,
+      "source": "vectorials/camera.svg"
+    },
+    "cart": {
+      "codepoint": 61711,
+      "source": "vectorials/cart.svg"
+    },
+    "chat": {
+      "codepoint": 61712,
+      "source": "vectorials/chat.svg"
+    },
+    "chat2": {
+      "codepoint": 61713,
+      "source": "vectorials/chat2.svg"
+    },
+    "check": {
+      "codepoint": 61714,
+      "source": "vectorials/check.svg"
+    },
+    "clock": {
+      "codepoint": 61715,
+      "source": "vectorials/clock.svg"
+    },
+    "cloud": {
+      "codepoint": 61716,
+      "source": "vectorials/cloud.svg"
+    },
+    "cloudReload": {
+      "codepoint": 61717,
+      "source": "vectorials/cloudReload.svg"
+    },
+    "coffee": {
+      "codepoint": 61718,
+      "source": "vectorials/coffee.svg"
+    },
+    "configure": {
+      "codepoint": 61719,
+      "source": "vectorials/configure.svg"
+    },
+    "contact": {
+      "codepoint": 61720,
+      "source": "vectorials/contact.svg"
+    },
+    "creditCard": {
+      "codepoint": 61721,
+      "source": "vectorials/creditCard.svg"
+    },
+    "cube": {
+      "codepoint": 61722,
+      "source": "vectorials/cube.svg"
+    },
+    "cup": {
+      "codepoint": 61723,
+      "source": "vectorials/cup.svg"
+    },
+    "db": {
+      "codepoint": 61724,
+      "source": "vectorials/db.svg"
+    },
+    "diplay": {
+      "codepoint": 61725,
+      "source": "vectorials/diplay.svg"
+    },
+    "dots": {
+      "codepoint": 61726,
+      "source": "vectorials/dots.svg"
+    },
+    "download": {
+      "codepoint": 61727,
+      "source": "vectorials/download.svg"
+    },
+    "edit": {
+      "codepoint": 61728,
+      "source": "vectorials/edit.svg"
+    },
+    "envelope": {
+      "codepoint": 61729,
+      "source": "vectorials/envelope.svg"
+    },
+    "envelopeClose": {
+      "codepoint": 61730,
+      "source": "vectorials/envelopeClose.svg"
+    },
+    "envelopeMail": {
+      "codepoint": 61731,
+      "source": "vectorials/envelopeMail.svg"
+    },
+    "fastForward": {
+      "codepoint": 61732,
+      "source": "vectorials/fastForward.svg"
+    },
+    "file": {
+      "codepoint": 61733,
+      "source": "vectorials/file.svg"
+    },
+    "files": {
+      "codepoint": 61734,
+      "source": "vectorials/files.svg"
+    },
+    "flag": {
+      "codepoint": 61735,
+      "source": "vectorials/flag.svg"
+    },
+    "flash": {
+      "codepoint": 61736,
+      "source": "vectorials/flash.svg"
+    },
+    "folder": {
+      "codepoint": 61737,
+      "source": "vectorials/folder.svg"
+    },
+    "folderClosed": {
+      "codepoint": 61738,
+      "source": "vectorials/folderClosed.svg"
+    },
+    "gift": {
+      "codepoint": 61739,
+      "source": "vectorials/gift.svg"
+    },
+    "grid": {
+      "codepoint": 61740,
+      "source": "vectorials/grid.svg"
+    },
+    "home": {
+      "codepoint": 61741,
+      "source": "vectorials/home.svg"
+    },
+    "inbox": {
+      "codepoint": 61742,
+      "source": "vectorials/inbox.svg"
+    },
+    "info": {
+      "codepoint": 61743,
+      "source": "vectorials/info.svg"
+    },
+    "lightbulb": {
+      "codepoint": 61744,
+      "source": "vectorials/lightbulb.svg"
+    },
+    "like": {
+      "codepoint": 61745,
+      "source": "vectorials/like.svg"
+    },
+    "location": {
+      "codepoint": 61746,
+      "source": "vectorials/location.svg"
+    },
+    "lockClose": {
+      "codepoint": 61747,
+      "source": "vectorials/lockClose.svg"
+    },
+    "lockOpen": {
+      "codepoint": 61748,
+      "source": "vectorials/lockOpen.svg"
+    },
+    "magnet": {
+      "codepoint": 61749,
+      "source": "vectorials/magnet.svg"
+    },
+    "map": {
+      "codepoint": 61750,
+      "source": "vectorials/map.svg"
+    },
+    "memo": {
+      "codepoint": 61751,
+      "source": "vectorials/memo.svg"
+    },
+    "minus": {
+      "codepoint": 61752,
+      "source": "vectorials/minus.svg"
+    },
+    "mirror": {
+      "codepoint": 61753,
+      "source": "vectorials/mirror.svg"
+    },
+    "mute": {
+      "codepoint": 61754,
+      "source": "vectorials/mute.svg"
+    },
+    "options": {
+      "codepoint": 61755,
+      "source": "vectorials/options.svg"
+    },
+    "pen": {
+      "codepoint": 61756,
+      "source": "vectorials/pen.svg"
+    },
+    "phone": {
+      "codepoint": 61757,
+      "source": "vectorials/phone.svg"
+    },
+    "photo": {
+      "codepoint": 61758,
+      "source": "vectorials/photo.svg"
+    },
+    "piechart": {
+      "codepoint": 61759,
+      "source": "vectorials/piechart.svg"
+    },
+    "play": {
+      "codepoint": 61760,
+      "source": "vectorials/play.svg"
+    },
+    "playlist": {
+      "codepoint": 61761,
+      "source": "vectorials/playlist.svg"
+    },
+    "plus": {
+      "codepoint": 61762,
+      "source": "vectorials/plus.svg"
+    },
+    "printer": {
+      "codepoint": 61763,
+      "source": "vectorials/printer.svg"
+    },
+    "questionMark": {
+      "codepoint": 61764,
+      "source": "vectorials/questionMark.svg"
+    },
+    "quicklook": {
+      "codepoint": 61765,
+      "source": "vectorials/quicklook.svg"
+    },
+    "radio": {
+      "codepoint": 61766,
+      "source": "vectorials/radio.svg"
+    },
+    "reader": {
+      "codepoint": 61767,
+      "source": "vectorials/reader.svg"
+    },
+    "record": {
+      "codepoint": 61768,
+      "source": "vectorials/record.svg"
+    },
+    "refresh": {
+      "codepoint": 61769,
+      "source": "vectorials/refresh.svg"
+    },
+    "repeat": {
+      "codepoint": 61770,
+      "source": "vectorials/repeat.svg"
+    },
+    "reply": {
+      "codepoint": 61771,
+      "source": "vectorials/reply.svg"
+    },
+    "resize": {
+      "codepoint": 61772,
+      "source": "vectorials/resize.svg"
+    },
+    "rewind": {
+      "codepoint": 61773,
+      "source": "vectorials/rewind.svg"
+    },
+    "ruller": {
+      "codepoint": 61774,
+      "source": "vectorials/ruller.svg"
+    },
+    "search": {
+      "codepoint": 61775,
+      "source": "vectorials/search.svg"
+    },
+    "send": {
+      "codepoint": 61776,
+      "source": "vectorials/send.svg"
+    },
+    "settings": {
+      "codepoint": 61777,
+      "source": "vectorials/settings.svg"
+    },
+    "sleep": {
+      "codepoint": 61778,
+      "source": "vectorials/sleep.svg"
+    },
+    "star": {
+      "codepoint": 61779,
+      "source": "vectorials/star.svg"
+    },
+    "timeMachine": {
+      "codepoint": 61780,
+      "source": "vectorials/timeMachine.svg"
+    },
+    "timer": {
+      "codepoint": 61781,
+      "source": "vectorials/timer.svg"
+    },
+    "timer2": {
+      "codepoint": 61782,
+      "source": "vectorials/timer2.svg"
+    },
+    "torchlight": {
+      "codepoint": 61783,
+      "source": "vectorials/torchlight.svg"
+    },
+    "trash": {
+      "codepoint": 61784,
+      "source": "vectorials/trash.svg"
+    },
+    "trash2": {
+      "codepoint": 61785,
+      "source": "vectorials/trash2.svg"
+    },
+    "umbrella": {
+      "codepoint": 61786,
+      "source": "vectorials/umbrella.svg"
+    },
+    "upload": {
+      "codepoint": 61787,
+      "source": "vectorials/upload.svg"
+    },
+    "volume": {
+      "codepoint": 61788,
+      "source": "vectorials/volume.svg"
+    },
+    "web": {
+      "codepoint": 61789,
+      "source": "vectorials/web.svg"
+    },
+    "window": {
+      "codepoint": 61790,
+      "source": "vectorials/window.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "IconicFont",
+    "force": true,
+    "input": {
+      "templates": "vectorials",
+      "vectors": "vectorials"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "output",
+      "fonts": "output",
+      "preview": "output"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview",
+      "../template/UIFont+Fontcustom.h",
+      "../template/Glyphs.swift"
+    ]
+  },
+  "templates": [
+    "output/IconicFont.css",
+    "output/IconicFont-preview.html",
+    "output/UIFont+Fontcustom.h",
+    "output/Glyphs.swift"
+  ]
+}
