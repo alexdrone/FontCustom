@@ -10,6 +10,6 @@ extension UIFont {
 }
 
 enum IconicFontGlyph: String {
-<% @glyphs.each_with_index do |name, index| %>
-  case <%= name[0].capitalize %> = "\u<%= (61696+index).to_s(16) %>"<% end %>
+<% @glyphs.each do |name, value| %>
+  case <%= name %> = "\u<%= value[:codepoint].to_s(16) %>"<% end %>
 }

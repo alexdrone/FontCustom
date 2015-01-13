@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "67ddadf0593115e9567da1c78ff8c13afa68321a3b37928e8c1ba4874fc53544",
-    "current": "67ddadf0593115e9567da1c78ff8c13afa68321a3b37928e8c1ba4874fc53544"
+    "previous": "614629686cb07939442698f5fb9d16bb9b82fbfe0d982ac2d15b3d09ca4920f1",
+    "current": "614629686cb07939442698f5fb9d16bb9b82fbfe0d982ac2d15b3d09ca4920f1"
   },
   "fonts": [
-    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.ttf",
-    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.svg",
-    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.woff",
-    "output/IconicFont_67ddadf0593115e9567da1c78ff8c13a.eot"
+    "raw-output/IconicFont_614629686cb07939442698f5fb9d16bb.ttf",
+    "raw-output/IconicFont_614629686cb07939442698f5fb9d16bb.svg",
+    "raw-output/IconicFont_614629686cb07939442698f5fb9d16bb.woff",
+    "raw-output/IconicFont_614629686cb07939442698f5fb9d16bb.eot"
   ],
   "glyphs": {
     "airplay": {
@@ -408,9 +408,9 @@
     },
     "no_hash": false,
     "output": {
-      "css": "output",
-      "fonts": "output",
-      "preview": "output"
+      "css": "raw-output",
+      "fonts": "raw-output",
+      "preview": "raw-output"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -418,13 +418,15 @@
       "css",
       "preview",
       "../template/UIFont+Fontcustom.h",
+      "../template/UIFont+Fontcustom.m",
       "../template/Glyphs.swift"
     ]
   },
   "templates": [
-    "output/IconicFont.css",
-    "output/IconicFont-preview.html",
-    "output/UIFont+Fontcustom.h",
-    "output/Glyphs.swift"
+    "raw-output/IconicFont.css",
+    "raw-output/IconicFont-preview.html",
+    "raw-output/UIFont+Fontcustom.h",
+    "raw-output/UIFont+Fontcustom.m",
+    "raw-output/Glyphs.swift"
   ]
 }
